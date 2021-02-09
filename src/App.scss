@@ -1,0 +1,20 @@
+@import "~bootstrap/scss/bootstrap";
+
+.badge-padding {
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.right-text {
+    text-align: right;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.delete-btn {
+    float: right;
+    opacity: 0.3;
+    cursor: pointer;
+}
